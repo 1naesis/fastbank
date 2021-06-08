@@ -1,0 +1,8 @@
+.client-select,
+.product-select{
+    display: none;
+}
+.client-select.active,
+.product-select.active{
+    display: block;
+}
